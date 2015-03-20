@@ -182,6 +182,7 @@ Format:
 | Luke Herron | [dafe](https://github.com/dafe) ||
 | Luke Stoss | [Stosswalkinator](https://github.com/Stosswalkinator) | I have taught myself a fair amount of Python and am looking to get more into it. |
 | Luis Ortiz | [skippyPeanutButter](https://github.com/skippyPeanutButter) | Self-taught novice, I know some Java, C++ and Python. Hoping to contribute to OSS projects and gain experience working with others. |
+| Manuel Urrutia | [ThatBob9001] |(https://github.com/ThatBob9001) ||
 | Marc Sardon | [scruti](https://github.com/scruti) | Spanish computer science student. Exp with C++(no GUI) and Java programming. Currently learning Ruby|
 | Marco Lau | [xamroc](https://github.com/xamroc) | College graduate, unemployed but hoping to continue improving my development skills. Main used Java in college. I want to learn more Python and Ruby. ||
 | Marcus Newman | [MarcusNewman](https://github.com/MarcusNewman) | C# Junior software developer. ||
